@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="HPIMS_WCF_Service.Server" CodeBehind="Service.svc.cs" %>
